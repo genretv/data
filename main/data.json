@@ -774,6 +774,9 @@
         "num": 1
       },
       {
+        "days": [
+          "Binge"
+        ],
         "num": 2,
         "page": {
           "link": "http://www.netflix.com/WiMovie/81021929",
@@ -810,6 +813,9 @@
         "num": 3
       },
       {
+        "days": [
+          "Thursday"
+        ],
         "num": 4,
         "page": {
           "link": "http://www.cwtv.com/shows/legacies/",
