@@ -25,7 +25,7 @@
           {
             "endDate": "2022-03-28 00:00:00",
             "endDateUncertain": true,
-            "startDate": null,
+            "startDate": "2022-02-28 00:00:00",
             "startDateUncertain": false
           }
         ]
@@ -53,7 +53,7 @@
           {
             "endDate": "2022-04-24 00:00:00",
             "endDateUncertain": true,
-            "startDate": null,
+            "startDate": "2022-02-24 00:00:00",
             "startDateUncertain": false
           }
         ]
@@ -84,7 +84,7 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": null,
+            "startDate": "2022-02-24 00:00:00",
             "startDateUncertain": false
           }
         ]
@@ -118,7 +118,7 @@
           {
             "endDate": "2022-03-02 00:00:00",
             "endDateUncertain": false,
-            "startDate": null,
+            "startDate": "2022-02-24 00:00:00",
             "startDateUncertain": false
           }
         ]
@@ -164,7 +164,7 @@
           {
             "endDate": "2022-03-02 00:00:00",
             "endDateUncertain": false,
-            "startDate": null,
+            "startDate": "2022-02-24 00:00:00",
             "startDateUncertain": false
           }
         ]
@@ -195,7 +195,7 @@
           {
             "endDate": "2022-03-16 00:00:00",
             "endDateUncertain": false,
-            "startDate": null,
+            "startDate": "2022-02-24 00:00:00",
             "startDateUncertain": false
           }
         ]
@@ -1577,7 +1577,7 @@
         },
         "runningPeriods": [
           {
-            "endDate": "2022-03-24 00:00:00",
+            "endDate": null,
             "endDateUncertain": true,
             "startDate": "spring",
             "startDateUncertain": true
@@ -6037,8 +6037,8 @@
         "num": 3,
         "runningPeriods": [
           {
-            "endDate": "2022-12-01 00:00:00",
-            "startDate": null
+            "endDate": "2021-12-01 00:00:00",
+            "startDate": "2021-12-01 00:00:00"
           }
         ]
       }
@@ -6218,7 +6218,7 @@
         "num": 4,
         "runningPeriods": [
           {
-            "endDate": "2022-10-07 00:00:00",
+            "endDate": "2021-10-07 00:00:00",
             "startDate": null
           }
         ]
