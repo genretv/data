@@ -15,9 +15,7 @@
         "num": 2
       },
       {
-        "days": [
-          "Monday"
-        ],
+        "days": ["Monday"],
         "num": 3,
         "page": {
           "link": "https://www.tntdrama.com/snowpiercer",
@@ -45,9 +43,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Tuesday"
-        ],
+        "days": ["Tuesday"],
         "num": 1,
         "page": {
           "link": "http://www.cwtv.com/shows/naomi/",
@@ -78,9 +74,7 @@
         "num": 1
       },
       {
-        "days": [
-          "Tuesday"
-        ],
+        "days": ["Tuesday"],
         "num": 2,
         "page": {
           "link": "http://www.cwtv.com/shows/superman-and-lois/",
@@ -114,9 +108,7 @@
         "num": 2
       },
       {
-        "days": [
-          "Wednesday"
-        ],
+        "days": ["Wednesday"],
         "num": 3,
         "page": {
           "link": "http://www.cwtv.com/shows/batwoman/",
@@ -162,9 +154,7 @@
         "num": 6
       },
       {
-        "days": [
-          "Wednesday"
-        ],
+        "days": ["Wednesday"],
         "num": 7,
         "page": {
           "link": "http://www.cwtv.com/shows/dcs-legends-of-tomorrow/",
@@ -195,9 +185,7 @@
         "num": 1
       },
       {
-        "days": [
-          "Wednesday"
-        ],
+        "days": ["Wednesday"],
         "num": 2,
         "page": {
           "link": "https://www.syfy.com/residentalien",
@@ -225,9 +213,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Thursday"
-        ],
+        "days": ["Thursday"],
         "num": 1,
         "page": {
           "link": null,
@@ -258,9 +244,7 @@
         "num": 1
       },
       {
-        "days": [
-          "Thursday"
-        ],
+        "days": ["Thursday"],
         "num": 2,
         "page": {
           "link": null,
@@ -297,9 +281,7 @@
         "num": 3
       },
       {
-        "days": [
-          "Thursday"
-        ],
+        "days": ["Thursday"],
         "num": 4,
         "page": {
           "link": "http://www.cbs.com/shows/star-trek-discovery/",
@@ -333,9 +315,7 @@
         "num": 2
       },
       {
-        "days": [
-          "Friday"
-        ],
+        "days": ["Friday"],
         "num": 3,
         "page": {
           "link": "https://tv.apple.com/us/show/servant/umc.cmc.4y25wuby7pck9o6vaubbbk7gb",
@@ -363,9 +343,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Friday"
-        ],
+        "days": ["Friday"],
         "num": 1,
         "page": {
           "link": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
@@ -399,9 +377,7 @@
         "num": 2
       },
       {
-        "days": [
-          "Saturday"
-        ],
+        "days": ["Saturday"],
         "num": 3,
         "page": {
           "link": "https://www.shudder.com/series/watch/a-discovery-of-witches/4680300",
@@ -459,9 +435,7 @@
         "num": 10
       },
       {
-        "days": [
-          "Sunday"
-        ],
+        "days": ["Sunday"],
         "num": 11,
         "page": {
           "link": "https://www.amc.com/shows/the-walking-dead",
@@ -495,9 +469,7 @@
         "num": 2
       },
       {
-        "days": [
-          "Sunday"
-        ],
+        "days": ["Sunday"],
         "num": 3,
         "page": {
           "link": "https://www.epix.com/series/britannia",
@@ -525,9 +497,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Sunday"
-        ],
+        "days": ["Sunday"],
         "num": 1,
         "page": {
           "link": null,
@@ -555,9 +525,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Binge"
-        ],
+        "days": ["Binge"],
         "num": 1,
         "page": {
           "link": "http://www.netflix.com/WiMovie/81098012",
@@ -585,9 +553,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Binge"
-        ],
+        "days": ["Binge"],
         "num": 1,
         "page": {
           "link": "http://www.netflix.com/WiMovie/80222802",
@@ -615,9 +581,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Binge"
-        ],
+        "days": ["Binge"],
         "num": 1,
         "page": {
           "link": "http://www.netflix.com/WiMovie/81152777",
@@ -645,9 +609,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Binge"
-        ],
+        "days": ["Binge"],
         "num": 1,
         "page": {
           "link": "http://www.netflix.com/WiMovie/81237994",
@@ -675,9 +637,7 @@
     },
     "seasons": [
       {
-        "days": [
-          "Binge"
-        ],
+        "days": ["Binge"],
         "num": 1,
         "page": {
           "link": "http://www.netflix.com/WiMovie/81123055",
@@ -708,9 +668,7 @@
         "num": 1
       },
       {
-        "days": [
-          "Binge"
-        ],
+        "days": ["Binge"],
         "num": 2,
         "page": {
           "link": "https://www.netflix.com/title/80117803",
@@ -741,9 +699,7 @@
         "num": 1
       },
       {
-        "days": [
-          "Binge"
-        ],
+        "days": ["Binge"],
         "num": 2,
         "page": {
           "link": "http://www.netflix.com/WiMovie/80230293",
@@ -774,9 +730,7 @@
         "num": 1
       },
       {
-        "days": [
-          "Binge"
-        ],
+        "days": ["Binge"],
         "num": 2,
         "page": {
           "link": "http://www.netflix.com/WiMovie/81021929",
@@ -813,9 +767,7 @@
         "num": 3
       },
       {
-        "days": [
-          "Thursday"
-        ],
+        "days": ["Thursday"],
         "num": 4,
         "page": {
           "link": "http://www.cwtv.com/shows/legacies/",
@@ -843,6 +795,7 @@
     },
     "seasons": [
       {
+        "days": ["Binge"],
         "num": 1,
         "page": {
           "link": "http://www.netflix.com/WiMovie/81295007",
@@ -870,6 +823,7 @@
     },
     "seasons": [
       {
+        "days": ["Binge"],
         "num": 1,
         "page": {
           "link": "http://www.netflix.com/WiMovie/81149450",
@@ -900,6 +854,7 @@
         "num": 1
       },
       {
+        "days": ["Friday"],
         "num": 2,
         "page": {
           "link": "https://www.cbs.com/shows/star-trek-picard/",
@@ -942,6 +897,7 @@
         "num": 5
       },
       {
+        "days": ["Sunday"],
         "num": 6,
         "page": {
           "link": "https://www.starz.com/series/outlander/",
@@ -969,6 +925,7 @@
     },
     "seasons": [
       {
+        "days": ["Sunday"],
         "num": 1,
         "page": {
           "link": null,
@@ -1017,6 +974,7 @@
         "num": 7
       },
       {
+        "days": ["Wednesday"],
         "num": 8,
         "page": {
           "link": "http://www.cwtv.com/shows/the-flash/",
@@ -1056,6 +1014,7 @@
         "num": 4
       },
       {
+        "days": ["Binge"],
         "num": 5,
         "page": {
           "link": "https://www.netflix.com/title/80074249",
@@ -1086,6 +1045,7 @@
         "num": 1
       },
       {
+        "days": ["Binge"],
         "num": 2,
         "page": {
           "link": "https://www.amazon.com/Upload-Official-Trailer/dp/B0858YGKZ4/",
@@ -1119,7 +1079,11 @@
         "num": 2
       },
       {
-        "num": 3,
+        "num": 3
+      },
+      {
+        "days": ["Friday"],
+        "num": 4,
         "page": {
           "link": "http://www.cwtv.com/shows/charmed/",
           "title": "CW"
@@ -1146,6 +1110,7 @@
     },
     "seasons": [
       {
+        "days": ["Thursday"],
         "num": 1,
         "page": {
           "link": null,
@@ -5538,7 +5503,7 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": null,
+            "startDate": "winter",
             "startDateUncertain": true
           }
         ]
@@ -5568,7 +5533,7 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": null,
+            "startDate": "winter",
             "startDateUncertain": true
           }
         ]
@@ -5589,6 +5554,7 @@
         "num": 1
       },
       {
+        "days": ["Binge"],
         "num": 2,
         "page": {
           "link": "http://www.netflix.com/WiMovie/80189685",
@@ -5598,7 +5564,22 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": null,
+            "startDate": "2021-12-17 00:00:00",
+            "startDateUncertain": true
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "page": {
+          "link": "http://www.netflix.com/WiMovie/80189685",
+          "title": "Netflix"
+        },
+        "runningPeriods": [
+          {
+            "endDate": null,
+            "endDateUncertain": false,
+            "startDate": "winter",
             "startDateUncertain": true
           }
         ]
