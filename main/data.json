@@ -1489,8 +1489,8 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": "spring",
-            "startDateUncertain": true
+            "startDate": "April 15, 2022",
+            "startDateUncertain": false
           }
         ]
       }
@@ -1867,6 +1867,7 @@
     },
     "seasons": [
       {
+        "days": ["Binge"],
         "num": 1,
         "page": {
           "link": null,
@@ -1876,8 +1877,8 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": "spring",
-            "startDateUncertain": true
+            "startDate": "Mar.17 2022",
+            "startDateUncertain": false
           }
         ]
       }
@@ -1996,7 +1997,7 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": "spring",
+            "startDate": "May 22, 2022",
             "startDateUncertain": false
           }
         ]
@@ -3109,8 +3110,8 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": "summer",
-            "startDateUncertain": true
+            "startDate": "April 25, 2022",
+            "startDateUncertain": false
           }
         ]
       }
@@ -4813,8 +4814,8 @@
           {
             "endDate": null,
             "endDateUncertain": false,
-            "startDate": "2022",
-            "startDateUncertain": false
+            "startDate": "Oct 29, 2022",
+            "startDateUncertain": true
           }
         ]
       }
